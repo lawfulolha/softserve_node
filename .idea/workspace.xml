@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bfdf5e5-90fe-4e68-a6ba-b8bd563907dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFPAxVU2hgenFpW1TwMsUVKZ54" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/models" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\softserve_projects\nodeauth\app\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\softserve_projects\nodeauth\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bfdf5e5-90fe-4e68-a6ba-b8bd563907dc" name="Default Changelist" comment="" />
+      <created>1582535229162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582535229162</updated>
+      <workItem from="1582535230896" duration="11976000" />
+      <workItem from="1582627403321" duration="786000" />
+      <workItem from="1582639012673" duration="10119000" />
+      <workItem from="1582749733508" duration="2466000" />
+      <workItem from="1582785523635" duration="10652000" />
+      <workItem from="1582803119317" duration="943000" />
+      <workItem from="1582809594960" duration="6488000" />
+      <workItem from="1582886717137" duration="1912000" />
+      <workItem from="1583049711679" duration="1332000" />
+      <workItem from="1583133605090" duration="1769000" />
+      <workItem from="1583152323008" duration="5411000" />
+      <workItem from="1583177366047" duration="2621000" />
+      <workItem from="1583212599961" duration="6163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="262" width="979" height="536" key="find.popup" timestamp="1583225893643">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="455" y="262" width="979" height="536" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1583225893643" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1582647049696">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582647049696" />
+  </component>
+</project>
